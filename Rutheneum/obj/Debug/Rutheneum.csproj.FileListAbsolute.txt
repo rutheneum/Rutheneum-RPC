@@ -1,0 +1,7 @@
+E:\Projects\Rutheneum\ClassLibrary\Rutheneum\Rutheneum\bin\Debug\Rutheneum.dll
+E:\Projects\Rutheneum\ClassLibrary\Rutheneum\Rutheneum\bin\Debug\Rutheneum.pdb
+E:\Projects\Rutheneum\ClassLibrary\Rutheneum\Rutheneum\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Rutheneum\ClassLibrary\Rutheneum\Rutheneum\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Rutheneum\ClassLibrary\Rutheneum\Rutheneum\obj\Debug\Rutheneum.csprojResolveAssemblyReference.cache
+E:\Projects\Rutheneum\ClassLibrary\Rutheneum\Rutheneum\obj\Debug\Rutheneum.dll
+E:\Projects\Rutheneum\ClassLibrary\Rutheneum\Rutheneum\obj\Debug\Rutheneum.pdb

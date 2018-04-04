@@ -1,0 +1,10 @@
+E:\Projects\Rutheneum\ClassLibrary\Rutheneum\Rutheneum.Test\bin\Debug\Rutheneum.Test.exe.config
+E:\Projects\Rutheneum\ClassLibrary\Rutheneum\Rutheneum.Test\obj\Debug\Rutheneum.Test.csprojResolveAssemblyReference.cache
+E:\Projects\Rutheneum\ClassLibrary\Rutheneum\Rutheneum.Test\bin\Debug\Rutheneum.Test.exe
+E:\Projects\Rutheneum\ClassLibrary\Rutheneum\Rutheneum.Test\bin\Debug\Rutheneum.Test.pdb
+E:\Projects\Rutheneum\ClassLibrary\Rutheneum\Rutheneum.Test\bin\Debug\Rutheneum.dll
+E:\Projects\Rutheneum\ClassLibrary\Rutheneum\Rutheneum.Test\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Rutheneum\ClassLibrary\Rutheneum\Rutheneum.Test\bin\Debug\Rutheneum.pdb
+E:\Projects\Rutheneum\ClassLibrary\Rutheneum\Rutheneum.Test\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Rutheneum\ClassLibrary\Rutheneum\Rutheneum.Test\obj\Debug\Rutheneum.Test.exe
+E:\Projects\Rutheneum\ClassLibrary\Rutheneum\Rutheneum.Test\obj\Debug\Rutheneum.Test.pdb
