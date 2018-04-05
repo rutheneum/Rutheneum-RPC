@@ -91,7 +91,7 @@ namespace Rutheneum
             var client = GetClient();
 
             string targetUrl = string.Format("{0}/{1}", BaseUrl, url);
-            string requestJson = "[" + (obj ?? new object()).ToJson() + "]";
+            string requestJson = (obj ?? new object()).ToJson();
             if (EnableLogging)
                 Debug.WriteLine("Rutheneum Request -> {0}\n{1}", targetUrl, requestJson);
 
