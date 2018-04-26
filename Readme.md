@@ -1,4 +1,4 @@
-# Rutheneum.NET 
+# Rutheneum RPC
 
 The purpose of this code is primarily for signing transactions, and while the
 code can do a bit more than what is shown here, at this stage, it may change
